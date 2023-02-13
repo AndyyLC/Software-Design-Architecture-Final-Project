@@ -1,0 +1,40 @@
+body {
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-style: bold;
+}
+form {
+  border: 3px solid #f1f1f1;
+}
+h2 {
+  text-align: center;
+}
+
+input[type="text"],
+input[type="password"] {
+  width: 95%;
+  padding: 14px 20px;
+  margin: 8px 0;
+}
+
+button {
+  background-color: rgb(94, 168, 233);
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  cursor: pointer;
+  width: 98%;
+}
+
+button:hover {
+  opacity: 0.6;
+}
+
+.CMS {
+  width: 40%;
+}
+
+.imgcontainer {
+  text-align: center;
+}
+
